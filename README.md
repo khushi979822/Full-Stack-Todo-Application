@@ -1,4 +1,4 @@
-p# Full Stack MERN Todo Application
+# Full Stack MERN Todo Application
 
 A modern, responsive, and secure Todo application built using the MERN stack (MongoDB, Express, React, Node.js). This project is designed as a high-quality demo for college projects or portfolio showcases.
 
